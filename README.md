@@ -44,9 +44,17 @@
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="github" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/gitlab/gitlab-original.svg" alt="gitlab" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="30" height="30"/> 
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/intellij/intellij-plain.svg" alt="intellij" width="30" height="30"/> 
+	<img src="https://devicons.github.io/devicon/devicon.git/icons/intellij/intellij-original.svg" alt="intellij" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/sourcetree/sourcetree-original.svg" alt="sourcetree" width="30" height="30"/> 
 	<img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="30" height="30"/> 
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/gimp/gimp-plain.svg" alt="gimp" width="30" height="30"/> 
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/inkscape/inkscape-plain.svg" alt="inkscape" width="30" height="30"/> 
+	<img src="https://devicons.github.io/devicon/devicon.git/icons/gimp/gimp-original.svg" alt="gimp" width="30" height="30"/> 
+	<img src="https://devicons.github.io/devicon/devicon.git/icons/inkscape/inkscape-original.svg" alt="inkscape" width="30" height="30"/> 
+	<img src="https://avatars1.githubusercontent.com/u/476675?s=200&v=4" alt="paypal" width="30" height="30"/> 
+	<img src="https://avatars3.githubusercontent.com/u/856813?s=200&v=4" alt="stripe" width="30" height="30"/> 
+	<img src="https://avatars3.githubusercontent.com/u/1885080?s=200&v=4" alt="coinbase" width="30" height="30"/> 
+	<img src="https://avatars1.githubusercontent.com/u/1505683?s=200&v=4" alt="font awesome" width="30" height="30"/> 
+	<img src="https://avatars0.githubusercontent.com/u/7892489?s=200&v=4" alt="netlify" width="30" height="30"/> 
+	<img src="https://avatars0.githubusercontent.com/u/472182?s=200&v=4" alt="contentful" width="30" height="30"/> 
+	<img src="https://avatars2.githubusercontent.com/u/3585411?s=200&v=4" alt="perl" width="30" height="30"/> 
+	<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/> 
 </p>
