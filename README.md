@@ -53,14 +53,13 @@
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/gradle/gradle-plain.svg" alt="gradle" width="30" height="30"/> 
 	<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="30" height="30"/> 
 	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg" alt="npm" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/tomcat/tomcat-line.svg" alt="tomcat" width="30" height="30"/> 
 	<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="30" height="30"/> 
 </p>
 
-#### Apps
+#### Apps and Websites
 
 <p align="left">
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/bitbucket/bitbucket-original-wordmark.svg" alt="bitbucket" width="30" height="30"/> 
