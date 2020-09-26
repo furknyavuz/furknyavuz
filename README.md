@@ -10,8 +10,6 @@
 
 ### Language and Technologies
 
-#### Front-end
-
 <p align="left">
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> 
@@ -23,30 +21,15 @@
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/> 
 	<img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="30" height="30"/> 
-</p>
-
-#### Back-end
-
-<p align="left">
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="express" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="30" height="30"/> 
 	<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original.svg" alt="ruby" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="30" height="30"/> 
-</p>
-
-#### Database
-
-<p align="left">
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30" height="30"/> 
-</p>
-
-#### Cloud, Containerization, CI, CD etc.
-
-<p align="left">
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/heroku/heroku-original.svg" alt="heroku" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" alt="docker" width="30" height="30"/> 
@@ -54,28 +37,13 @@
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original.svg" alt="redis" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/tomcat/tomcat-line.svg" alt="tomcat" width="30" height="30"/> 
 	<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="30" height="30"/> 
-</p>
-
-#### Dependency Management
-
-<p align="left">
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg" alt="npm" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/gradle/gradle-plain.svg" alt="gradle" width="30" height="30"/> 
 	<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" alt="maven" width="30" height="30"/> 
-</p>
-
-#### SCM
-
-<p align="left">
 	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="github" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/gitlab/gitlab-original.svg" alt="gitlab" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="30" height="30"/> 
-</p>
-
-#### Apps
-
-<p align="left">
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/intellij/intellij-plain.svg" alt="intellij" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/sourcetree/sourcetree-original.svg" alt="sourcetree" width="30" height="30"/> 
 	<img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="30" height="30"/> 
