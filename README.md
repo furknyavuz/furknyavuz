@@ -44,7 +44,7 @@
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> 
 </p>
 
-#### Cloud, Containerization, CI, CD, SCM etc.
+#### Cloud, Containerization, CI, CD etc.
 
 <p align="left">
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="30" height="30"/> 
@@ -52,19 +52,24 @@
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/gradle/gradle-plain.svg" alt="gradle" width="30" height="30"/> 
 	<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="30" height="30"/> 
-	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg" alt="npm" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/tomcat/tomcat-line.svg" alt="tomcat" width="30" height="30"/> 
 	<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="30" height="30"/> 
 </p>
 
-#### Apps and Websites
+#### SCM
 
 <p align="left">
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/bitbucket/bitbucket-original-wordmark.svg" alt="bitbucket" width="30" height="30"/> 
+	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="github" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/gitlab/gitlab-original.svg" alt="gitlab" width="30" height="30"/> 
+	<img src="https://devicons.github.io/devicon/devicon.git/icons/bitbucket/bitbucket-original-wordmark.svg" alt="bitbucket" width="30" height="30"/> 
+</p>
+
+#### Apps
+
+<p align="left">
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/intellij/intellij-plain.svg" alt="intellij" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/sourcetree/sourcetree-original.svg" alt="sourcetree" width="30" height="30"/> 
 	<img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="30" height="30"/> 
