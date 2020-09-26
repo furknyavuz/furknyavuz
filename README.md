@@ -22,9 +22,6 @@
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/> 
 	<img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="30" height="30"/> 
-	<img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="30" height="30"/> 
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/gimp/gimp-plain.svg" alt="gimp" width="30" height="30"/> 
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/inkscape/inkscape-plain.svg" alt="inkscape" width="30" height="30"/> 
 </p>
 
 #### Back-end
@@ -71,4 +68,7 @@
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/gitlab/gitlab-original.svg" alt="gitlab" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/intellij/intellij-plain.svg" alt="intellij" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/sourcetree/sourcetree-original.svg" alt="sourcetree" width="30" height="30"/> 
+	<img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="30" height="30"/> 
+	<img src="https://devicons.github.io/devicon/devicon.git/icons/gimp/gimp-plain.svg" alt="gimp" width="30" height="30"/> 
+	<img src="https://devicons.github.io/devicon/devicon.git/icons/inkscape/inkscape-plain.svg" alt="inkscape" width="30" height="30"/> 
 </p>
