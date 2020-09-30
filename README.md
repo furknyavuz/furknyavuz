@@ -11,7 +11,9 @@
 ### Language and Technologies
 
 <p align="left">
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="30" height="30"/> 
+	<a href="https://github.com/angular">
+		<img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="30" height="30"/> 
+	</a>
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react" width="30" height="30"/> 
