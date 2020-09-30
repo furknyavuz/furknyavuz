@@ -14,25 +14,63 @@
 	<a href="https://github.com/angular">
 		<img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="30" height="30"/> 
 	</a>
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> 
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react" width="30" height="30"/> 
-	<img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="30" height="30"/> 
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/> 
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/> 
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/> 
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/> 
-	<img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="30" height="30"/> 
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/> 
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="express" width="30" height="30"/> 
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="30" height="30"/> 
-	<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30"/> 
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original.svg" alt="ruby" width="30" height="30"/> 
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="30" height="30"/> 
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/> 
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/> 
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30" height="30"/> 
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/heroku/heroku-original.svg" alt="heroku" width="30" height="30"/> 
+	<a href="https://www.typescriptlang.org">
+		<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> 
+	</a>
+	<a href="https://en.wikipedia.org/wiki/JavaScript">
+		<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
+	</a>
+	<a href="https://github.com/facebook/react">
+		<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react" width="30" height="30"/> 
+	</a>
+	<a href="https://github.com/gatsbyjs/gatsby">
+		<img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="30" height="30"/> 
+	</a>
+	<a href="https://en.wikipedia.org/wiki/HTML">
+		<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/> 
+	</a>
+	<a href="https://en.wikipedia.org/wiki/CSS">
+		<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/> 
+	</a>
+	<a href="https://github.com/sass/sass">
+		<img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/> 
+	</a>
+	<a href="https://github.com/twbs/bootstrap">
+		<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/> 
+	</a>
+	<a href="https://github.com/jekyll/jekyll">
+		<img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="30" height="30"/> 
+	</a>
+	<a href="https://github.com/nodejs/node">
+		<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/> 
+	</a>
+	<a href="https://github.com/expressjs/express">
+		<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="express" width="30" height="30"/> 
+	</a>
+	<a href="https://www.oracle.com/java">
+		<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="30" height="30"/> 
+	</a>
+	<a href="https://spring.io">
+		<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30"/> 
+	</a>
+	<a href="https://github.com/ruby/ruby">
+		<img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original.svg" alt="ruby" width="30" height="30"/> 
+	</a>
+	<a href="https://github.com/rails/rails">
+		<img src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="30" height="30"/> 
+	</a>
+	<a href="https://www.postgresql.org">
+		<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/> 
+	</a>
+	<a href="https://www.mysql.com">
+		<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/> 
+	</a>
+	<a href="https://github.com/mongodb/mongo">
+		<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30" height="30"/> 
+	</a>
+	<a href="https://heroku.com">
+		<img src="https://devicons.github.io/devicon/devicon.git/icons/heroku/heroku-original.svg" alt="heroku" width="30" height="30"/> 
+	</a>
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" alt="docker" width="30" height="30"/> 
 	<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="30" height="30"/> 
