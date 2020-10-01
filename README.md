@@ -41,6 +41,7 @@
 	<a href="https://github.com/jekyll/jekyll">
 		<img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="30" height="30"/> 
 	</a>
+	<br/>
 	<a href="https://github.com/nodejs/node">
 		<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/> 
 	</a>
@@ -71,6 +72,7 @@
 	<a href="https://heroku.com">
 		<img src="https://devicons.github.io/devicon/devicon.git/icons/heroku/heroku-original.svg" alt="heroku" width="30" height="30"/> 
 	</a>
+	<br/>
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" alt="docker" width="30" height="30"/> 
 	<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="30" height="30"/> 
@@ -80,6 +82,7 @@
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg" alt="npm" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/gradle/gradle-plain.svg" alt="gradle" width="30" height="30"/> 
 	<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" alt="maven" width="30" height="30"/> 
+	<br/>
 	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="github" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/gitlab/gitlab-original.svg" alt="gitlab" width="30" height="30"/> 
@@ -89,6 +92,7 @@
 	<img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/gimp/gimp-original.svg" alt="gimp" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/inkscape/inkscape-original.svg" alt="inkscape" width="30" height="30"/> 
+	<br/>
 	<img src="https://avatars1.githubusercontent.com/u/476675?s=200&v=4" alt="paypal" width="30" height="30"/> 
 	<img src="https://avatars3.githubusercontent.com/u/856813?s=200&v=4" alt="stripe" width="30" height="30"/> 
 	<img src="https://avatars3.githubusercontent.com/u/1885080?s=200&v=4" alt="coinbase" width="30" height="30"/> 
