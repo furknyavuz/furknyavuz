@@ -86,11 +86,11 @@
 	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="github" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/gitlab/gitlab-original.svg" alt="gitlab" width="30" height="30"/> 
+	<br/>
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/intellij/intellij-original.svg" alt="intellij" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/sourcetree/sourcetree-original.svg" alt="sourcetree" width="30" height="30"/> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/> 
-	<br/>
 	<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="markdown" width="30" height="30"/> 
 	<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="macos" width="30" height="30"/> 
 	<img src="https://avatars1.githubusercontent.com/u/476675?s=200&v=4" alt="paypal" width="30" height="30"/> 
