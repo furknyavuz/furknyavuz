@@ -35,10 +35,10 @@
 	<a href="https://github.com/sass/sass">
 		<img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/> 
 	</a>
+	<br/>
 	<a href="https://github.com/twbs/bootstrap">
 		<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/> 
 	</a>
-	<br/>
 	<a href="https://github.com/jekyll/jekyll">
 		<img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="30" height="30"/> 
 	</a>
@@ -60,13 +60,13 @@
 	<a href="https://github.com/rails/rails">
 		<img src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="30" height="30"/> 
 	</a>
+	<br/>
 	<a href="https://www.postgresql.org">
 		<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/> 
 	</a>
 	<a href="https://www.mysql.com">
 		<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/> 
 	</a>
-	<br/>
 	<a href="https://github.com/mongodb/mongo">
 		<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30" height="30"/> 
 	</a>
