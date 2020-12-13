@@ -5,9 +5,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/furknyavuz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=furknyavuz)
 
 
-[![Furkan's github stats](https://github-readme-stats.vercel.app/api?username=furknyavuz&count_private=true&show_icons=true&theme=vue)](https://furknyavuz.com)
+[![Furkan's github stats](https://github-readme-stats.vercel.app/api?username=furknyavuz&count_private=true&show_icons=true&theme=dark)](https://furknyavuz.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furknyavuz&count_private=true&theme=vue)](https://furknyavuz.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furknyavuz&count_private=true&theme=dark)](https://furknyavuz.com)
 
 ### Language and Technologies
 
