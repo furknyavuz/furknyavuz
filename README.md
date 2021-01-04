@@ -50,7 +50,7 @@
 		<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="express" width="30" height="30"/> 
 	</a>
 	<a href="https://www.oracle.com/java">
-		<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="30" height="30"/> 
+		<img src="https://www0.assets.heroku.com/assets/home/icons/langs/java_2x-ee66f14ca80513c0da69046b47252d3b03699b3dc168c75f275c79a175820db4.png" alt="java" width="30" height="30"/> 
 	</a>
 	<a href="https://spring.io">
 		<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30"/> 
