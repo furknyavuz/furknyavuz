@@ -13,7 +13,7 @@
 
 <p align="left">
 	<a href="https://github.com/angular">
-		<img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="30" height="30"/> 
+		<img src="https://avatars0.githubusercontent.com/u/139426?s=200&v=4" alt="angularjs" width="30" height="30"/> 
 	</a>
 	<a href="https://www.typescriptlang.org">
 		<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> 
