@@ -28,7 +28,7 @@
 		<img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="30" height="30"/> 
 	</a>
 	<a href="https://en.wikipedia.org/wiki/HTML">
-		<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/> 
+		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="30" height="30"/> 
 	</a>
 	<a href="https://en.wikipedia.org/wiki/CSS">
 		<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/> 
