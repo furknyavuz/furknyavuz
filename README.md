@@ -34,7 +34,7 @@
 		<img src="" alt="css3" width="30" height="30"/> 
 	</a>
 	<a href="https://github.com/sass/sass">
-		<img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/> 
+		<img src="https://camo.githubusercontent.com/d9ac5c4a159b0548b3c25ee46ff5aa20f7c9fb348f74c2af1ed4e06e121325ff/68747470733a2f2f7261776769742e636f6d2f736173732f736173732d736974652f6d61737465722f736f757263652f6173736574732f696d672f6c6f676f732f6c6f676f2e737667" alt="sass" width="30" height="30"/> 
 	</a>
 	<br/>
 	<a href="https://github.com/twbs/bootstrap">
