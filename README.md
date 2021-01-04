@@ -56,7 +56,7 @@
 		<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30"/> 
 	</a>
 	<a href="https://github.com/ruby/ruby">
-		<img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original.svg" alt="ruby" width="30" height="30"/> 
+		<img src="https://www1.assets.heroku.com/assets/home/icons/langs/ruby_2x-b90e2b05e6969627e800305983ba7b8b9d027134786ecf09cb6676a3fd6ad5c3.png" alt="ruby" width="30" height="30"/> 
 	</a>
 	<a href="https://github.com/rails/rails">
 		<img src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="30" height="30"/> 
