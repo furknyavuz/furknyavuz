@@ -63,7 +63,7 @@
 	</a>
 	<br/>
 	<a href="https://www.postgresql.org">
-		<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/> 
+		<img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" width="30" height="30"/> 
 	</a>
 	<a href="https://www.mysql.com">
 		<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/> 
