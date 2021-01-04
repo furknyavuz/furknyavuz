@@ -44,7 +44,7 @@
 		<img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="30" height="30"/> 
 	</a>
 	<a href="https://github.com/nodejs/node">
-		<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/> 
+		<img src="https://camo.githubusercontent.com/720ed473d178f9380291709d2223860ade4f3c7bc368e3fea1ad057b8dc9c6f5/68747470733a2f2f6e6f64656a732e6f72672f7374617469632f696d616765732f6c6f676f2d6c696768742e737667" alt="nodejs" width="30" height="30"/> 
 	</a>
 	<a href="https://github.com/expressjs/express">
 		<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="express" width="30" height="30"/> 
