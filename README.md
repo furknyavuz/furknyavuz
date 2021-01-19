@@ -103,7 +103,9 @@
 	<img src="https://avatars0.githubusercontent.com/u/472182?s=200&v=4" alt="contentful" width="30" height="30"/> 
 	<img src="https://avatars2.githubusercontent.com/u/3585411?s=200&v=4" alt="perl" width="30" height="30"/> 
 	<img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="30" height="30"/> 
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/gimp/gimp-original.svg" alt="gimp" width="30" height="30"/> 
+	<a href="https://www.gimp.org">
+		<img src="https://www.gimp.org/images/frontpage/wilber-big.png" alt="gimp" width="30" height="30"/> 
+	</a>
 	<a href="https://inkscape.org">
 		<img src="https://media.inkscape.org/static/images/inkscape-logo.svg" alt="inkscape" width="30" height="30"/> 
 	</a>
