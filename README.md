@@ -7,8 +7,6 @@
 
 [![Furkan's github stats](https://github-readme-stats.vercel.app/api?username=furknyavuz&count_private=true&show_icons=true&theme=dark)](https://furknyavuz.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furknyavuz&count_private=true&theme=dark)](https://furknyavuz.com)
-
 ### Language and Technologies
 
 <p align="left">
